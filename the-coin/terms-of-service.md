@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — "the coin"
 
-**Effective date:** 13 August 2026
+**Effective date:** 14 August 2026
 **Operator:** DOSLA d.o.o., a limited liability company organized under the laws of the Republic of Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439, registered seat at Trg Dušana Kvedra 13, 2000 Maribor, Slovenia ("**DOSLA**," "**we**," "**us**," or "**our**")
 **Contact:** hblockdev@gmail.com
 

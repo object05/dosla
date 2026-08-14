@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — "the coin"
 
-**Effective date:** 13 August 2026
+**Effective date:** 14 August 2026
 **Data controller:** DOSLA d.o.o., Trg Dušana Kvedra 13, 2000 Maribor, Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439 ("**DOSLA**," "**we**," "**us**," or "**our**")
 **Contact for privacy requests:** hblockdev@gmail.com
 
