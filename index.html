@@ -155,14 +155,14 @@
 
   /* ── Services ──────────────────────────────────────── */
   .grid-services{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
     gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
   }
   .card{
+    flex: 0 1 230px;
     background: var(--bg);
+    border: 1px solid var(--border);
     padding: 26px 22px;
     transition: background 0.15s ease;
   }
