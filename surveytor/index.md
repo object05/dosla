@@ -8,3 +8,4 @@ Legal documents for **Surveytor**, the survey pre-testing web app operated by **
 
 - [Terms of Service](./terms-of-service.html)
 - [Privacy Policy](./privacy-policy.html)
+- [Data Processing Agreement](./data-processing-agreement.html)
