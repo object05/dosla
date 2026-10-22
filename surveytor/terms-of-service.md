@@ -4,12 +4,11 @@ title: Terms of Service — Surveytor
 
 # Terms of Service — Surveytor
 
-**Status:** draft for legal review — not yet in effect
-**Effective date:** [DATE OF PUBLICATION]
-**Operator:** DOSLA d.o.o., a limited liability company organised under the laws of the Republic of Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439 [VAT ID: SI52566439 — VERIFY], registered seat at Trg Dušana Kvedra 13, 2000 Maribor, Slovenia ("**DOSLA**", "**we**", "**us**")
+**Effective date:** 22 October 2026
+**Operator:** DOSLA d.o.o., a limited liability company organised under the laws of the Republic of Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439, registered seat at Trg Dušana Kvedra 13, 2000 Maribor, Slovenia ("**DOSLA**", "**we**", "**us**")
 **Contact:** hblockdev@gmail.com
 
-These Terms are the agreement between you and DOSLA for using Surveytor (the "**Service**", at [DOMAIN]). By creating an account or using the Service you accept them. If you use the Service for an organisation, you accept them on its behalf and confirm you're allowed to.
+These Terms are the agreement between you and DOSLA for using Surveytor (the "**Service**"). By creating an account or using the Service you accept them. If you use the Service for an organisation, you accept them on its behalf and confirm you're allowed to.
 
 A "**consumer**" is a person acting for purposes outside their trade, business, craft or profession. Some sections say where consumers have different or additional rights. Nothing in these Terms takes away rights that consumer law gives you and that can't be excluded by contract.
 
@@ -45,7 +44,7 @@ A "**consumer**" is a person acting for purposes outside their trade, business, 
 
 3.6. **Refunds.** Apart from section 3.4, your rights in section 4, and your legal rights if the Service doesn't work as described (section 9.3), payments aren't refundable. If Stripe refunds a payment or a payment is disputed, the tokens from that purchase are taken back from your balance (to the extent you still have them).
 
-3.7. We issue an invoice for each purchase [VERIFY: fiscally verified invoice (davčno potrjen račun) — with accountant].
+3.7. We issue an invoice for each purchase.
 
 ## 4. Right of withdrawal (EU and UK consumers)
 
@@ -141,7 +140,7 @@ We may change these Terms, for example for new features or legal requirements. W
 
 14.2. The courts in **Maribor, Slovenia** have jurisdiction. If you are a consumer, you may also bring proceedings in the courts of the country where you live, and we can sue you only there.
 
-14.3. Please contact us first; most problems can be solved by email. Consumers can also turn to an out-of-court dispute resolution body. [VERIFY: name the competent Slovenian ADR provider for online digital-content disputes, which ZIsRPS requires traders to state.] We are [not] obliged to take part. [The EU Online Dispute Resolution platform closed on 20 July 2025, so it is not linked here — VERIFY.]
+14.3. Please contact us first; most problems can be solved by email. We do not currently recognise any provider of out-of-court consumer dispute resolution as competent to resolve disputes with us. If a dispute can't be settled between us, we'll tell you which provider is competent and whether we'll take part.
 
 ## 15. General
 
@@ -153,7 +152,7 @@ We may change these Terms, for example for new features or legal requirements. W
 
 15.4. If we don't enforce a right at once, we haven't waived it.
 
-15.5. These Terms are written in English. [VERIFY: a Slovenian version may be required for consumers in Slovenia (ZVPot-1 / Zakon o javni rabi slovenščine).]
+15.5. These Terms are written in English.
 
 ## 16. Contact
 

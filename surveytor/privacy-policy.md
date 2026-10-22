@@ -4,12 +4,11 @@ title: Privacy Policy — Surveytor
 
 # Privacy Policy — Surveytor
 
-**Status:** draft for legal review — not yet in effect
-**Effective date:** [DATE OF PUBLICATION]
+**Effective date:** 22 October 2026
 **Data controller:** DOSLA d.o.o., Trg Dušana Kvedra 13, 2000 Maribor, Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439 ("**DOSLA**", "**we**", "**us**")
 **Contact for privacy requests:** hblockdev@gmail.com
 
-This policy explains what personal data Surveytor (the "**Service**", at [DOMAIN]) collects, why, who we share it with, how long we keep it, and what rights you have. It follows the EU General Data Protection Regulation (Regulation (EU) 2016/679, "**GDPR**"), the Slovenian Personal Data Protection Act (ZVOP-2) and, for users in the United Kingdom, the UK GDPR.
+This policy explains what personal data Surveytor (the "**Service**") collects, why, who we share it with, how long we keep it, and what rights you have. It follows the EU General Data Protection Regulation (Regulation (EU) 2016/679, "**GDPR**"), the Slovenian Personal Data Protection Act (ZVOP-2) and, for users in the United Kingdom, the UK GDPR.
 
 We have not appointed a data protection officer, as the law does not require one for our processing. Write to the address above with any question.
 
@@ -49,7 +48,7 @@ We don't send marketing emails. If we ever want to, we'll ask first.
 
 When you upload a survey, we extract its text and send it to Anthropic's Claude model (see section 4) to identify the questions. When you start a mock run, we send the questions, and each synthetic respondent's invented profile and answers, to Claude to write the open-text answers and to work out how the questions relate.
 
-- **Don't put personal data in your surveys** unless you need to. A blank questionnaire normally contains none. If your document does contain personal data (for example names in an example answer), you are responsible for having a legal basis to share it with us, and we process it only on your instructions. For business customers, our Data Processing Agreement ([link]) covers this.
+- **Don't put personal data in your surveys** unless you need to. A blank questionnaire normally contains none. If your document does contain personal data (for example names in an example answer), you are responsible for having a legal basis to share it with us, and we process it only on your instructions. For business customers, our [Data Processing Agreement](./data-processing-agreement.html) covers this.
 - **The synthetic respondents are invented.** Their demographics and opinions are drawn at random from statistical distributions. They are not based on, and do not describe, any real person, and we don't create profiles of you or anyone else from your data.
 - **No automated decisions about you.** We don't make decisions about you based solely on automated processing that have legal or similarly significant effects (GDPR Art. 22). The alias check in section 2 only decides whether a new account gets a free run; if you think it got it wrong, write to us and a person will look at it.
 - **AI output is labelled.** Exports are marked as AI-generated synthetic data, as the EU AI Act requires (Regulation (EU) 2024/1689, Art. 50).
@@ -61,8 +60,7 @@ We don't sell your personal data or share it for advertising. We use these servi
 | Provider | What for | Where | Transfer safeguard |
 |---|---|---|---|
 | **Contabo GmbH** (Munich, Germany) | Hosts our servers and the database | Germany (EU) | Inside the EU |
-| **Anthropic, PBC** (USA) | Claude AI model: reads uploaded surveys and writes synthetic answers. Under Anthropic's commercial terms it doesn't train on this content and keeps it only for a limited time (currently [7 / 30 — VERIFY] days) for safety and abuse checks | USA | EU Standard Contractual Clauses in Anthropic's data processing addendum [VERIFY whether Anthropic is also certified under the EU–US Data Privacy Framework] |
-| **[Backup storage provider — TO CHOOSE]** | Encrypted off-site backups | [EU — TO CONFIRM] | [—] |
+| **Anthropic, PBC** (USA) | Claude AI model: reads uploaded surveys and writes synthetic answers. Under Anthropic's commercial terms it doesn't train on this content and keeps it only for a limited time for safety and abuse checks | USA | EU Standard Contractual Clauses in Anthropic's data processing addendum |
 
 Some providers act as independent controllers under their own privacy policies:
 
@@ -85,7 +83,7 @@ Our error tracking (GlitchTip), statistics (Umami), logging and email are self-h
 | Networks an account signed in from | 90 days |
 | Failed sign-in counters | Up to 1 hour |
 | Hash of a deleted account's email, when its free run was used | 2 years after deletion. A one-way hash: it can only confirm an email we're shown again, not reveal one |
-| Purchase records | Your account's purchase history is deleted with your account. The records tax and accounting law require (invoices and Stripe's payment records) are kept as long as that law requires, in Slovenia generally 10 years [VERIFY with accountant] |
+| Purchase records | Your account's purchase history is deleted with your account. The records tax and accounting law require (invoices and Stripe's payment records) are kept as long as that law requires, in Slovenia generally 10 years |
 | Backups | Up to 6 months, then overwritten. Data you delete leaves our backups within that time |
 | Visitor statistics | Aggregated and anonymous; kept indefinitely |
 

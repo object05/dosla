@@ -4,8 +4,7 @@ title: Data Processing Agreement — Surveytor
 
 # Data Processing Agreement — Surveytor
 
-**Status:** draft for legal review — not yet in effect
-**Effective date:** [DATE OF PUBLICATION]
+**Effective date:** 22 October 2026
 
 This Data Processing Agreement ("**DPA**") forms part of the [Terms of Service](./terms-of-service.html) between DOSLA d.o.o., Trg Dušana Kvedra 13, 2000 Maribor, Slovenia (the "**Processor**", "**we**") and the customer using Surveytor (the "**Controller**", "**you**"). It applies when content you upload to Surveytor contains personal data that you control, and meets Article 28 of the GDPR (Regulation (EU) 2016/679) and the UK GDPR. It applies automatically; you don't need to sign it. If you want a signed copy, write to hblockdev@gmail.com.
 
@@ -41,8 +40,7 @@ We will:
 | Sub-processor | Service | Location | Safeguard |
 |---|---|---|---|
 | Contabo GmbH, Munich, Germany | Server hosting | Germany (EU) | — |
-| Anthropic, PBC, USA | AI model that reads uploaded surveys and writes synthetic answers | USA | EU Standard Contractual Clauses in Anthropic's data processing addendum [VERIFY; and whether Anthropic is certified under the EU–US Data Privacy Framework] |
-| [Backup storage provider — TO CHOOSE] | Encrypted off-site backups | [EU] | [—] |
+| Anthropic, PBC, USA | AI model that reads uploaded surveys and writes synthetic answers | USA | EU Standard Contractual Clauses in Anthropic's data processing addendum |
 
 3.2. We bind every sub-processor to data protection obligations at least as protective as this DPA, and remain responsible to you for them.
 
@@ -50,7 +48,7 @@ We will:
 
 ## 4. International transfers
 
-Transfers outside the EEA (to Anthropic in the USA) rely on the European Commission's Standard Contractual Clauses (Commission Implementing Decision (EU) 2021/914) between us and the sub-processor [and the EU–US Data Privacy Framework — VERIFY]. We'll give you information about these safeguards on request.
+Transfers outside the EEA (to Anthropic in the USA) rely on the European Commission's Standard Contractual Clauses (Commission Implementing Decision (EU) 2021/914) between us and the sub-processor. We'll give you information about these safeguards on request.
 
 ## 5. Security measures
 
@@ -68,7 +66,7 @@ We'll answer reasonable written questions about our processing and provide our d
 
 ## 7. Deletion
 
-When you delete a survey, or your account, we delete the uploaded document, the extracted text and questions, and the runs straight away from the live systems. Copies leave our backups within 6 months. Our AI sub-processor keeps inputs for a limited time for safety checks [currently 7 / 30 days — VERIFY], then deletes them.
+When you delete a survey, or your account, we delete the uploaded document, the extracted text and questions, and the runs straight away from the live systems. Copies leave our backups within 6 months. Our AI sub-processor keeps inputs for a limited time for safety checks, then deletes them.
 
 ## 8. Personal data breaches
 
