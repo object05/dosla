@@ -4,7 +4,7 @@ title: Terms of Service
 
 # Terms of Service — "the coin"
 
-**Effective date:** 14 August 2026
+**Effective date:** 28 October 2026
 **Operator:** DOSLA d.o.o., a limited liability company organized under the laws of the Republic of Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439, registered seat at Trg Dušana Kvedra 13, 2000 Maribor, Slovenia ("**DOSLA**," "**we**," "**us**," or "**our**")
 **Contact:** hblockdev@gmail.com
 
@@ -102,6 +102,8 @@ The App, including its software, design, graphics, coin models, animations, text
 
 The App may use third-party services (for example, cloud infrastructure, sign-in providers, analytics, crash reporting, or payment processing) to operate certain features. Use of those features is also subject to the relevant third party's own terms, and DOSLA is not responsible for the acts or omissions of those third parties, except where required by applicable mandatory law.
 
+The App may also link to third-party websites (for example, our Buy Me a Coffee page). Those websites are governed by their own terms and privacy policies. Any donation you make there is voluntary, is processed by that service, is not a purchase from the App, and does not unlock anything in the App.
+
 ## 13. Disclaimer of Warranties
 
 **To the maximum extent permitted by applicable law, the App is provided "as is" and "as available," without warranties of any kind, whether express, implied, or statutory, including implied warranties of merchantability, fitness for a particular purpose, non-infringement, and that the App will be uninterrupted, error-free, or secure.** Some jurisdictions do not allow the exclusion of certain warranties, so some of the above exclusions may not apply to you, and you may have additional rights that vary by jurisdiction.
@@ -132,7 +134,7 @@ These Terms are governed by the laws of the Republic of Slovenia, without regard
 
 ## 19. Dispute Resolution
 
-19.1. If you are a consumer resident in the EU, you may access the European Commission's Online Dispute Resolution (ODR) platform at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr) to resolve disputes out of court. We are not obligated and do not commit to participate in dispute resolution proceedings before a consumer arbitration board.
+19.1. If you have a complaint, please contact us first (Section 21) and we will try to resolve it with you. We are not obligated and do not commit to participate in alternative dispute resolution proceedings before a consumer dispute resolution body.
 
 19.2. Subject to Section 19.1 and any mandatory consumer-protection rights you have to bring proceedings in your own country of residence, the courts of the Republic of Slovenia have exclusive jurisdiction over any dispute arising out of or relating to these Terms or the App.
 
