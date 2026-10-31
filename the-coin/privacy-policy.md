@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — "the coin"
 
-**Effective date:** 28 October 2026
+**Effective date:** 31 October 2026
 **Data controller:** DOSLA d.o.o., Trg Dušana Kvedra 13, 2000 Maribor, Slovenia, registration number (matična številka) 5821053000, tax number (davčna številka) 52566439 ("**DOSLA**," "**we**," "**us**," or "**our**")
 **Contact for privacy requests:** hblockdev@gmail.com
 
@@ -55,8 +55,7 @@ We do not collect: your real name (unless you choose to sign in with a provider 
 ### 2.6. Automatic network requests (current release)
 
 - **Legal-document version check.** Each time you open the App, it downloads a small file from our website, hosted on GitHub Pages (operated by GitHub, Inc., USA), to check whether these Terms or this Privacy Policy have changed since you last agreed to them. As with any web request, GitHub receives your device's IP address and basic technical details of the request (such as the time and your device's browser/app identifier) and handles them under its own privacy statement. We do not receive or store this data. Legal basis: our legitimate interest in making sure you have agreed to the current version of these documents.
-- **Google Play.** On Android, the App connects to the Google Play billing service on your device. No purchases are offered in the current release, and we receive no data from this connection; Google handles it under its own privacy policy.
-- **Links you tap.** Links in the App (for example, to these documents or to our Buy Me a Coffee page) open in your browser. The website you visit receives the usual request data and handles it under its own policy.
+- **Links you tap.** Links in the App (for example, to these documents) open in your browser. The website you visit receives the usual request data and handles it under its own policy.
 
 ### 2.7. If you contact us (current release)
 
